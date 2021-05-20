@@ -1,5 +1,6 @@
 package com.nava;
 
+import org.assertj.core.api.Assertions;
 import org.junit.Assert;
 import org.junit.Test;
 
@@ -24,4 +25,6 @@ public class PrimeiroTeste {
         Assert.assertEquals(15, resultado);
 
     }
+
 }
+
